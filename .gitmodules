@@ -1,0 +1,9 @@
+[submodule "Bootstrap"]
+	path = Bootstrap
+	url = https://github.com/NicksCollaborate/Bootstrap.git
+[submodule "Bot"]
+	path = Bot
+	url = https://github.com/NicksCollaborate/Bot.git
+[submodule "Inject"]
+	path = Inject
+	url = https://github.com/NicksCollaborate/Inject.git
